@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../../../../Downloads/depositphotos_196130272-stock-illustration-black-and-white-globe-with.jpg">
+   </FileRef>
+   <Group
+      location = "container:"
+      name = "image">
+      <FileRef
+         location = "group:../../../../Downloads/depositphotos_107330782-stock-illustration-banana-with-transparent-background.jpg">
+      </FileRef>
+      <FileRef
+         location = "group:../../../../Downloads/hqdefault.jpg">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "container:">
+   </FileRef>
+</Workspace>
